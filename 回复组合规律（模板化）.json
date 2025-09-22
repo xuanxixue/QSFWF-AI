@@ -1,0 +1,29 @@
+{
+  "response_templates": [
+    {
+      "user_function_blocks": ["话题", "评述", "感叹"],
+      "response_template": ["呼应", "话题", "评述", "感叹"],
+      "example": "是啊，今天天气真好！"
+    },
+    {
+      "user_function_blocks": ["话题", "评述"],
+      "response_template": ["呼应", "话题", "评述"],
+      "example": "是啊，今天天气好。"
+    },
+    {
+      "user_function_blocks": ["评述", "感叹"],
+      "response_template": ["呼应", "评述", "感叹"],
+      "example": "确实真好！"
+    },
+    {
+      "user_function_blocks": ["感叹"],
+      "response_template": ["呼应", "感叹"],
+      "example": "是啊！"
+    },
+    {
+      "user_function_blocks": ["话题"],
+      "response_template": ["呼应", "话题"],
+      "example": "今天啊。"
+    }
+  ]
+}
