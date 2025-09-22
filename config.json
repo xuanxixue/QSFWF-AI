@@ -1,0 +1,11 @@
+{
+    "service": {
+        "name": "chinese-chatbot",
+        "description": "汉语严格规则对话系统",
+        "version": "1.0.0"
+    },
+    "processor": {
+        "char_table_path": null,
+        "use_test_data": true
+    }
+}
